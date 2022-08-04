@@ -1,0 +1,18 @@
+C:\Users\hbera\Desktop\Örnek_Proje\örnek_proje_kendi_çalışmalarım\ornek_proje_5\ornek_proje_5\BusinessLibrary\bin\Debug\BusinessLibrary.dll
+C:\Users\hbera\Desktop\Örnek_Proje\örnek_proje_kendi_çalışmalarım\ornek_proje_5\ornek_proje_5\BusinessLibrary\bin\Debug\BusinessLibrary.pdb
+C:\Users\hbera\Desktop\Örnek_Proje\örnek_proje_kendi_çalışmalarım\ornek_proje_5\ornek_proje_5\BusinessLibrary\obj\Debug\BusinessLibrary.csproj.AssemblyReference.cache
+C:\Users\hbera\Desktop\Örnek_Proje\örnek_proje_kendi_çalışmalarım\ornek_proje_5\ornek_proje_5\BusinessLibrary\obj\Debug\BusinessLibrary.csproj.CoreCompileInputs.cache
+C:\Users\hbera\Desktop\Örnek_Proje\örnek_proje_kendi_çalışmalarım\ornek_proje_5\ornek_proje_5\BusinessLibrary\obj\Debug\BusinessLibrary.dll
+C:\Users\hbera\Desktop\Örnek_Proje\örnek_proje_kendi_çalışmalarım\ornek_proje_5\ornek_proje_5\BusinessLibrary\obj\Debug\BusinessLibrary.pdb
+C:\Users\admin\Desktop\PROJELER\Örnek_Proje\örnek_proje_kendi_çalışmalarım\ornek_proje_5\ornek_proje_5\BusinessLibrary\bin\Debug\BusinessLibrary.dll
+C:\Users\admin\Desktop\PROJELER\Örnek_Proje\örnek_proje_kendi_çalışmalarım\ornek_proje_5\ornek_proje_5\BusinessLibrary\bin\Debug\BusinessLibrary.pdb
+C:\Users\admin\Desktop\PROJELER\Örnek_Proje\örnek_proje_kendi_çalışmalarım\ornek_proje_5\ornek_proje_5\BusinessLibrary\obj\Debug\BusinessLibrary.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\PROJELER\Örnek_Proje\örnek_proje_kendi_çalışmalarım\ornek_proje_5\ornek_proje_5\BusinessLibrary\obj\Debug\BusinessLibrary.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\PROJELER\Örnek_Proje\örnek_proje_kendi_çalışmalarım\ornek_proje_5\ornek_proje_5\BusinessLibrary\obj\Debug\BusinessLibrary.dll
+C:\Users\admin\Desktop\PROJELER\Örnek_Proje\örnek_proje_kendi_çalışmalarım\ornek_proje_5\ornek_proje_5\BusinessLibrary\obj\Debug\BusinessLibrary.pdb
+C:\Users\admin\Desktop\Staj Defteri\ornek_proje_5\ornek_proje_5\BusinessLibrary\bin\Debug\BusinessLibrary.dll
+C:\Users\admin\Desktop\Staj Defteri\ornek_proje_5\ornek_proje_5\BusinessLibrary\bin\Debug\BusinessLibrary.pdb
+C:\Users\admin\Desktop\Staj Defteri\ornek_proje_5\ornek_proje_5\BusinessLibrary\obj\Debug\BusinessLibrary.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Staj Defteri\ornek_proje_5\ornek_proje_5\BusinessLibrary\obj\Debug\BusinessLibrary.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Staj Defteri\ornek_proje_5\ornek_proje_5\BusinessLibrary\obj\Debug\BusinessLibrary.dll
+C:\Users\admin\Desktop\Staj Defteri\ornek_proje_5\ornek_proje_5\BusinessLibrary\obj\Debug\BusinessLibrary.pdb

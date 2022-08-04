@@ -1,0 +1,47 @@
+﻿@using ornek_proje_5.Controllers
+@using EntityFrameworkLibrary
+@model PageItem
+
+@{
+    //ViewBag.Title = "Markalar";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<br />
+<br />
+<br />
+<br />
+
+<div class="row">
+    <div class="col-md-12">
+        <a class="btn btn-sm btn-success pull-right" data-mode="MarkaGuncelle" data-data1="0">+&nbsp;Yeni</a>
+    </div>
+
+    <div class="col-md-12">
+
+        <table class="table table-bordered table-hover">
+            <thead>
+                <tr>
+                    <th>Marka ID</th>
+                    <th>Marka Başlık</th>
+                    <th>Marka Açıklama</th>
+                    <th>Güncelle</th>
+                    <th>Sil</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.lstMarkalarIslem)
+                {
+                    <tr>
+                        <td>@item.markaID</td>
+                        <td>@item.markaBaslik</td>
+                        <td>@item.markaAciklama</td>
+                        <td><a class="btn btn-sm btn-info" data-mode="MarkaGuncelle" data-data1="@item.markaID">Güncelle</a></td>
+                        <td><a class="btn btn-sm btn-danger" data-mode="MarkaSil" data-data1="@item.markaID">Sil</a></td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
